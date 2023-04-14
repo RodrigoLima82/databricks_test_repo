@@ -3,4 +3,4 @@
 # COMMAND ----------
 
 import random
-print(random.randint(0, 6))
+print(random.randint(0, 7))
