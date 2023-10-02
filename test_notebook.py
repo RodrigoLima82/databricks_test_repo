@@ -13,4 +13,9 @@ print(random.randint(10, 50))
 
 # COMMAND ----------
 
+# novo desenvolvimento
+print(random.randint(100, 500))
+
+# COMMAND ----------
+
 
